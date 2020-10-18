@@ -7,7 +7,11 @@ package pboif2.pkg10119044.latihan1.biodata;
 
 /**
  *
- * @author Yohana Sri Rejeki
+ * @author 
+ * NAMA     : Yohana Sri Rejeki
+ * KELAS    : PBOIF2
+ * NIM      : 10119044
+ * Deskripsi Program : Program ini berfungsi untuk menampilkan biodata seseorang
  */
 public class PBOIF210119044Latihan1Biodata {
 
